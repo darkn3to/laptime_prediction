@@ -1,4 +1,3 @@
-#superior over linear regression
 import pandas as pd
 import os
 import matplotlib.pyplot as plot

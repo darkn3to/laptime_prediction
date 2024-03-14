@@ -1,4 +1,3 @@
-#inferior as compared to lasso
 import pandas as pd
 import os
 import matplotlib.pyplot as plot
